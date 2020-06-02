@@ -1,2 +1,2 @@
-# myprogramanalizer
- analiezernumber
+# MyProgramAnalizer
+ MyAnlizer
